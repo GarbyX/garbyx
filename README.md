@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-👋 I’m @GarbyX
-
 👀 I’m interested in:
 
 1. Building Web and Mobile applications software development with:

@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-👋 Hi, I’m @GarbyX
+👋 I’m @GarbyX
 
 👀 I’m interested in:
 
 1. Building Web and Mobile applications software development with:
 - Java/Spring Boot
 - Python (Django Tkinter)
-- PHP/CodeIgniter/Laravel
+- PHP / CodeIgniter / Laravel
 - ASP.NET and ASP.NET core
 2. User-facing web applications => React, JavaScript
 3. Mobile App Development => Android Studio, Flutter, React Native & Swift

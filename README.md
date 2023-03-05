@@ -3,7 +3,7 @@
 👀 I’m interested in:
 
 1. Building Web and Mobile applications software development with:
-- Java/Spring Boot
+- Java / Spring Boot
 - Python (Django Tkinter)
 - PHP / CodeIgniter / Laravel
 - ASP.NET and ASP.NET core

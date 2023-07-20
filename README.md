@@ -1,6 +1,6 @@
 ### Hi there 👋
 👀 I’m interested in:
-1. Building Web and Mobile applications software development with:<br>
+1. Building enterprise web applications & software development using these technologies:<br>
   a.)  Java / Spring Boot <br>
   b.)  ASP.NET and ASP.NET core <br>
   c.)  Python - Data Analytics, Data Visualisation, Django, Tkinter GUI, Web apps <br>

@@ -4,7 +4,6 @@
   a.)  Java / Spring Boot <br>
   b.)  ASP.NET and ASP.NET core <br>
   c.)  Python - Data Analytics, Data Visualisation, Django, Tkinter GUI, Web apps <br>
-  d.)  PHP / CodeIgniter / Laravel <br>
 2. User-facing web applications => React, JavaScript
 3. Mobile App Development => Android Studio, Flutter, React Native & Swift
 4. Linux kernel & Wireless communication networks
